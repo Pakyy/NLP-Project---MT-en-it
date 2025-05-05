@@ -67,3 +67,5 @@ This study provides a comprehensive comparison of Seq2Seq and LLM architectures 
 * Expanding the dataset.
 * Exploring hybrid approaches that integrate Seq2Seq and LLM models.
 * Include the inverse translation task from Italian to English.
+
+You can find the full project report [here](docs/NLP_Report.pdf).
